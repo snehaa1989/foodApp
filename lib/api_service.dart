@@ -82,7 +82,7 @@ class ProductSchema {
       kitchen: json['kitchen'],
       menuId: json['menuId'],
       particular: json['particular'],
-      price: json['Price'],
+      price: json['price'],
       productId: json['productId'],
       restaurantId: json['restaurantId'],
       timeFrom: json['timeFrom'],
